@@ -10,10 +10,10 @@ class DataBaseConfig
     public function __construct()
     {
 
-        $this->servername = 'localhost';
-        $this->username = 'root';
+        $this->servername = '';
+        $this->username = '';
         $this->password = '';
-        $this->databasename = 'auction';
+        $this->databasename = '';
 
     }
 }
