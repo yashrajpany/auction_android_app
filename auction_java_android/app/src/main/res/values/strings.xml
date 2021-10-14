@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">auction</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signup">Sign-up</string>
+    <string name="fullname">Full Name</string>
+    <string name="email">Email</string>
+    <string name="already_a_user_login">Already have an account? <u>Login</u></string>
+    <string name="create_an_account_sign_up">Create an account <u>Sign-Up</u></string>
+    <string name="bidder">Bidder</string>
+    <string name="splash">Splash</string>
+    <string name="auctioneer">Auctioneer</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="bidder_name">Bidder Username</string>
+    <string name="update">Update</string>
+    <string name="product_name">Product Name</string>
+
+</resources>
